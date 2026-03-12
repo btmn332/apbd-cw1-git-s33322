@@ -16,4 +16,9 @@ double divide(double x, double y)
     }
 }
 
+double substract(double x, double y)
+{
+    return x - y;
+}
+
 Console.WriteLine("Hello, World!");
