@@ -33,3 +33,4 @@ double CalculateAverage(int[] values)
 }
 
 Console.WriteLine("Hello, World!");
+Console.WriteLine("qwerty");
