@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿double add(double x, double y)
+{
+    return x + y;
+}
 
 Console.WriteLine("Hello, World!");
