@@ -56,4 +56,4 @@ int CalculateMin(int[] values)
     return min;
 }
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello!");
