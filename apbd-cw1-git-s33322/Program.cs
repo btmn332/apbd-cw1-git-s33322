@@ -45,4 +45,3 @@ int CalculateMax(int[] values)
 }
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("qwerty");
